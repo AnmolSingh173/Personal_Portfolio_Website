@@ -72,9 +72,8 @@ body {
 
 /* PROJECT SECTION  */
 
-
 .pcards{
-  height: 110vh;
+  height: auto;
   width: 90%;
   display: grid;
   grid-template-columns:auto auto  ;
@@ -94,6 +93,12 @@ body {
 
 .card a{
   color: white;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+
+.card p{
+  padding: auto;
 }
 
 
