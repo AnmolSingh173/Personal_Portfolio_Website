@@ -145,7 +145,7 @@ body {
 /* CODE FOR MOBILE RESPONSIVENESS  */
 
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
 
  
   .profile {
@@ -164,7 +164,8 @@ body {
   background-size: cover;
  }
   .pcards {
-    grid-template-columns: auto; 
+    grid-template-columns: auto ;
+  
     height: 190vh;
   }
   .card{
