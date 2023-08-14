@@ -46,7 +46,6 @@ I'd love to connect with you! Feel free to reach out through any of the followin
 - [LinkedIn](https://www.linkedin.com/in/anmol-preet-singh-b17058249/)
 - Email: [anmol.singh173yt@gmail.com](mailto:anmol.singh173yt@gmail.com)
 
-![Contact Preview](./images/contact_preview.png)
 
 ---
 
