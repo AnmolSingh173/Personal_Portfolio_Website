@@ -238,7 +238,7 @@ input[type="checkbox"] {
   font-size: 1.3rem;
 }
 
-a {
+a{
   color: aqua;
 }
 
@@ -270,9 +270,15 @@ a {
 
 .card{
   margin-top: 10%;
-  padding: auto;
+  
   border: 5px solid white;
-  border-radius: 10%;
-  height: 50vh;
-  width: 80%;
+  text-align: center;
+  height: auto;
+  width: auto;
+}
+
+.card img{
+  height: 90%;
+   width: 100%;
+    
 }
