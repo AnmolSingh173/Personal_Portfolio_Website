@@ -111,11 +111,6 @@ a{
 
 /* PROJECT SECTION  */
 
-#Projects{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .pcards{
   height: 100vh;
