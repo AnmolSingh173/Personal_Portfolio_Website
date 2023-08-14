@@ -145,7 +145,7 @@ body {
 /* CODE FOR MOBILE RESPONSIVENESS  */
 
 
-@media (max-width: 991px) {
+@media (max-width: 768px) {
 
  
   .profile {
