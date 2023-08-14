@@ -139,9 +139,6 @@ body {
 
 /* Styles for screens with a maximum width of 768px (typical for mobile devices) */
 @media (max-width: 768px) {
-  body {
-    background-size: auto; /* Adjust background size for better visibility */
-  }
 
   /* Styles for profile section */
   .profile {
