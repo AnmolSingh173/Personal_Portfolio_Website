@@ -213,4 +213,9 @@ height: 100vh;
     padding: 2%;
     grid-template-columns: 1fr 1fr ;
     grid-template-rows: 1fr 1fr ;
+    gap: 2%;
+  }
+
+  .aboutme hr{
+  border: 5px solid black;
   }
