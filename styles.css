@@ -137,30 +137,30 @@ body {
 
 /* CODE FOR MOBILE RESPONSIVENESS  */
 
-/* Styles for screens with a maximum width of 768px (typical for mobile devices) */
+
 @media (max-width: 768px) {
 
-  /* Styles for profile section */
+ 
   .profile {
-    font-size: 3rem; /* Decrease font size for better fit */
+    font-size: 3rem; 
   }
 
-  /* Styles for about section */
+  
   .aboutme {
-    grid-template-columns: 1fr; /* Single column layout for smaller screens */
+    grid-template-columns: 1fr; 
     text-align: center;
     font-size: 1rem;
     padding: 20px;
   }
 
-  /* Styles for project cards */
+ 
   .pcards {
-    grid-template-columns: auto; /* Single column layout for smaller screens */
+    grid-template-columns: auto; 
   }
 
-  /* Styles for contact section */
+ 
   #contact {
-    margin-top: 5rem; /* Decrease margin for better positioning */
+    margin-top: 5rem;
   }
 
   .socials img {
