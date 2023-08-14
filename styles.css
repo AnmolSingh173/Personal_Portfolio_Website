@@ -98,7 +98,9 @@ body {
 .card img{
   height: 90%;
    width: 100%;
-    
+   max-height: 90%;
+   width: auto;
+   max-width: 100%;
 }
 
 
@@ -129,3 +131,49 @@ body {
   height: 10vh;
   width: 10vh;
 }
+
+
+
+
+/* CODE FOR MOBILE RESPONSIVENESS  */
+
+/* Styles for screens with a maximum width of 768px (typical for mobile devices) */
+@media (max-width: 768px) {
+  body {
+    background-size: auto; /* Adjust background size for better visibility */
+  }
+
+  /* Styles for profile section */
+  .profile {
+    font-size: 3rem; /* Decrease font size for better fit */
+  }
+
+  /* Styles for about section */
+  .aboutme {
+    grid-template-columns: 1fr; /* Single column layout for smaller screens */
+    text-align: center;
+    font-size: 1rem;
+    padding: 20px;
+  }
+
+  /* Styles for project cards */
+  .pcards {
+    grid-template-columns: auto; /* Single column layout for smaller screens */
+  }
+
+  /* Styles for contact section */
+  #contact {
+    margin-top: 5rem; /* Decrease margin for better positioning */
+  }
+
+  .socials img {
+    height: 6vh;
+    width: 6vh;
+  }
+}
+
+
+
+
+
+
