@@ -160,10 +160,12 @@ body {
     padding: 20px;
   }
 
- 
+ .cards img{
+  background-size: cover;
+ }
   .pcards {
     grid-template-columns: auto; 
-    height: auto;
+    height: 190vh;
   }
   .card{
     height: auto;
