@@ -160,7 +160,9 @@ body {
     grid-template-columns: auto; 
     height: auto;
   }
-
+  .card{
+    height: auto;
+  }
  
   #contact {
     margin-top: 5rem;
