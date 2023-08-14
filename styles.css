@@ -107,38 +107,34 @@ body {
 }
 
 
-/* CONTACT SECTION  */
 
-#contact{
-  margin-top: 10rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#contact {
+  margin-top: 5rem;
+  text-align: center; 
+  background-color: rgba(0, 0, 0, 0.7); 
+  padding: 5rem 0; 
 }
 
-
-
-.connect{
-  text-align: center;
+.connect {
   color: white;
-  height: auto;
-  width: 98%;
-
-}
-.socials{
-  margin: 5%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  justify-content: space-evenly;
+  padding: 2rem;
 }
 
-.socials img{
-  height: 10vh;
-  width: 10vh;
+.socials {
+  margin-top: 2rem; 
 }
 
+.socials img {
+  height: 6vh;
+  width: 6vh;
+  margin: 0 10px; 
+}
 
+/* Copyright text */
+#contact .copyright {
+  color: white;
+  margin-top: 2rem;
+}
 
 
 /* CODE FOR MOBILE RESPONSIVENESS  */
